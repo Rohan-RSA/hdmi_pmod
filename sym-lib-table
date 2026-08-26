@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "hdmi_pmod-cache") (type "Legacy") (uri "C:/Projects/KiCAD/hdmi_pmod/hdmi_pmod-cache.lib") (options "") (descr "Legacy project cache library"))
+)

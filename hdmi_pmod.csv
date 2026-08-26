@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"J0","1","HDMI_A_1.4","","","","","${EXCLUDE_FROM_POS_FILES}","ultra_librarian:10029449-111RLF","https://en.wikipedia.org/wiki/HDMI"
+"J1","1","Conn_02x04_Counter_Clockwise","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical","~"
+"PMOD1","1","PMOD_PMOD-Device-x2-Type-XHS-MODIFIED","","","","","${EXCLUDE_FROM_POS_FILES}","Rohan_Integrated_Footprints:pmod_pin_array_6x2_hs_modified",""
+"R1,R2,R3","3","2k","","","","","${EXCLUDE_FROM_POS_FILES}","Resistor_SMD:R_0805_2012Metric","~"
+"R4","1","100k","","","","","${EXCLUDE_FROM_POS_FILES}","Resistor_SMD:R_0805_2012Metric","~"
